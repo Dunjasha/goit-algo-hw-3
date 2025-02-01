@@ -28,3 +28,4 @@ def get_numbers_ticket(min, max, quantity):
 if __name__ == "__main__":
     print(get_numbers_ticket(1, 49, 6)) 
 
+#123
